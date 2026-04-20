@@ -27,6 +27,8 @@ jobs:
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
-          apiKey: ${{ secrets.CF_API_KEY }}
           accountId: abc33eb023a8f83aee6b4b8353857b36
           command: pages deploy dist --project-name=japan-trip --branch=main
+        env:
+          CLOUDFLARE_API_KEY: ${{ secrets.CF_API_KEY }}
+          CLOUDFLARE_EMAIL: ${{ secrets.CF_EMAIL }}
