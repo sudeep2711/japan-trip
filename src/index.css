@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-stone-950 text-stone-100 m-0;
+    font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  #root {
+    @apply w-full min-h-screen flex;
+  }
+}
+
+/* Leaflet popup custom styles */
+.leaflet-popup-content-wrapper {
+  background: #1c1917;
+  color: #f5f5f4;
+  border: 1px solid #44403c;
+  border-radius: 8px;
+}
+.leaflet-popup-tip {
+  background: #1c1917;
+}

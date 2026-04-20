@@ -1,0 +1,209 @@
+[
+  {
+    "id": "bk-flight-out",
+    "type": "flight",
+    "status": "candidate",
+    "name": "SFO → NRT — Outbound Flight",
+    "provider": "ZIPAIR / JAL / ANA",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.google.com/travel/flights?q=flights+from+SFO+to+NRT+october+2026",
+    "departureDate": "2026-10-04",
+    "arrivalDate": "2026-10-05",
+    "departureTime": "TBD",
+    "arrivalTime": "TBD",
+    "costUSD": 700,
+    "costJPY": 104615,
+    "paid": false,
+    "notes": "Target price: $600–800/person. ZIPAIR cheapest (budget), JAL/ANA best comfort. Book by April 2026 for best prices. Fly into NRT (Narita) — better than HND for budget airlines.",
+    "links": [
+      { "label": "Google Flights SFO→NRT", "url": "https://www.google.com/travel/flights?q=flights+from+SFO+to+NRT" },
+      { "label": "ZIPAIR Official", "url": "https://www.zipair.net/en" },
+      { "label": "JAL Official", "url": "https://www.jal.com/en/" },
+      { "label": "KAYAK", "url": "https://www.kayak.com/flights/SFO-TYO" }
+    ]
+  },
+  {
+    "id": "bk-flight-return",
+    "type": "flight",
+    "status": "candidate",
+    "name": "KIX → SFO — Return Flight",
+    "provider": "ZIPAIR / JAL / ANA",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.google.com/travel/flights?q=flights+from+KIX+to+SFO+october+2026",
+    "departureDate": "2026-10-16",
+    "arrivalDate": "2026-10-16",
+    "departureTime": "TBD",
+    "arrivalTime": "TBD",
+    "costUSD": 700,
+    "costJPY": 104615,
+    "paid": false,
+    "notes": "Fly home from Kansai Airport (KIX) in Osaka — no need to backtrack to Tokyo. Haruka Express from Namba takes 80 min.",
+    "links": [
+      { "label": "Google Flights KIX→SFO", "url": "https://www.google.com/travel/flights?q=flights+from+KIX+to+SFO" }
+    ]
+  },
+  {
+    "id": "bk-jr-pass",
+    "type": "pass",
+    "status": "candidate",
+    "name": "JR Pass — 14 Day",
+    "provider": "JR Pass",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.jrpass.com/",
+    "departureDate": "2026-10-05",
+    "arrivalDate": "2026-10-18",
+    "costUSD": 540,
+    "costJPY": 80703,
+    "paid": false,
+    "notes": "MUST BUY BEFORE LEAVING USA — significantly cheaper outside Japan. Covers all Shinkansen (Tokyo→Kyoto→Osaka) plus JR lines. Price for 2 people: ~$1,080. Buy from JRPass.com or Japan Experience.",
+    "links": [
+      { "label": "JRPass.com", "url": "https://www.jrpass.com/" },
+      { "label": "Japan Experience JR Pass", "url": "https://www.japan-experience.com/jr-pass" }
+    ]
+  },
+  {
+    "id": "bk-hotel-tokyo",
+    "type": "hotel",
+    "status": "candidate",
+    "name": "Tokyo Hotel — Shinjuku area (3 nights)",
+    "provider": "TBD",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.booking.com/searchresults.html?city=1&ss=Shinjuku+Tokyo",
+    "checkInDate": "2026-10-05",
+    "checkOutDate": "2026-10-08",
+    "costJPY": 54000,
+    "costUSD": 361,
+    "paid": false,
+    "notes": "Budget ~¥15,000-18,000/night for 2. Shinjuku or Asakusa location. Look for: Shinjuku Granbell, Hotel Century Southern Tower, or similar 3-star.",
+    "links": [
+      { "label": "Booking.com Shinjuku", "url": "https://www.booking.com/searchresults.html?city=1&ss=Shinjuku+Tokyo" },
+      { "label": "Hotels.com Tokyo", "url": "https://www.hotels.com/search.do?q-destination=Shinjuku%2C+Tokyo" }
+    ]
+  },
+  {
+    "id": "bk-hotel-kawaguchiko",
+    "type": "hotel",
+    "status": "candidate",
+    "name": "Kawaguchiko Guesthouse (1 night)",
+    "provider": "TBD",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake+Kawaguchi+Yamanashi",
+    "checkInDate": "2026-10-08",
+    "checkOutDate": "2026-10-09",
+    "costJPY": 12000,
+    "costUSD": 80,
+    "paid": false,
+    "notes": "Stay near the lake for sunrise Fuji views at Chureito Pagoda next morning. Book a north-facing room for Mt. Fuji view.",
+    "links": [
+      { "label": "Booking.com Lake Kawaguchi", "url": "https://www.booking.com/searchresults.html?ss=Lake+Kawaguchi" }
+    ]
+  },
+  {
+    "id": "bk-ryokan-hakone",
+    "type": "ryokan",
+    "status": "candidate",
+    "name": "Hakone Tokinoshizuku Ryokan (2 nights)",
+    "provider": "Hakone Tokinoshizuku",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.booking.com/hotel/jp/hakone-tokinoshizuku.html",
+    "checkInDate": "2026-10-09",
+    "checkOutDate": "2026-10-11",
+    "costJPY": 80000,
+    "costUSD": 535,
+    "paid": false,
+    "notes": "BOOK ASAP — sells out months in advance. Private hinoki wood onsen on terrace. Includes dinner + breakfast both nights. Couples rooms available. Alternatives: YUPOPPO Hakone, Hakone Yuyado Zen.",
+    "links": [
+      { "label": "Hakone Tokinoshizuku", "url": "https://www.booking.com/hotel/jp/hakone-tokinoshizuku.html" },
+      { "label": "YUPOPPO Hakone (alt)", "url": "https://www.booking.com/searchresults.html?ss=Hakone+ryokan" },
+      { "label": "Selected Ryokan Japan", "url": "https://selected-ryokan.com/ryokan/view/mt-fuji-view" }
+    ]
+  },
+  {
+    "id": "bk-hotel-kyoto",
+    "type": "hotel",
+    "status": "candidate",
+    "name": "Kyoto Hotel — Gion area (3 nights)",
+    "provider": "TBD",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Gion+Kyoto",
+    "checkInDate": "2026-10-11",
+    "checkOutDate": "2026-10-14",
+    "costJPY": 54000,
+    "costUSD": 361,
+    "paid": false,
+    "notes": "Budget ¥15,000-20,000/night. Stay in Gion — walk to all Demon Slayer spots, Nishiki Market, Pontocho. Look for: Mitsui Garden Hotel Kyoto Shijo, Kyomachiya ryokan-style hotels.",
+    "links": [
+      { "label": "Booking.com Gion Kyoto", "url": "https://www.booking.com/searchresults.html?ss=Gion+Kyoto" }
+    ]
+  },
+  {
+    "id": "bk-hotel-osaka",
+    "type": "hotel",
+    "status": "candidate",
+    "name": "Osaka Hotel — Namba area (2 nights)",
+    "provider": "TBD",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Namba+Osaka",
+    "checkInDate": "2026-10-14",
+    "checkOutDate": "2026-10-16",
+    "costJPY": 28000,
+    "costUSD": 187,
+    "paid": false,
+    "notes": "Osaka hotels are cheaper than Tokyo/Kyoto. Namba location is perfect — walk to Dotonbori. Look for: Dormy Inn Namba, Cross Hotel Osaka.",
+    "links": [
+      { "label": "Booking.com Namba Osaka", "url": "https://www.booking.com/searchresults.html?ss=Namba+Osaka" }
+    ]
+  },
+  {
+    "id": "bk-teamlab",
+    "type": "activity",
+    "status": "candidate",
+    "name": "teamLab Planets Tokyo",
+    "provider": "teamLab",
+    "confirmationNumber": "",
+    "bookingUrl": "https://planets.teamlab.art/tokyo/",
+    "departureDate": "2026-10-06",
+    "costJPY": 6400,
+    "costUSD": 43,
+    "paid": false,
+    "notes": "Book online — always sells out, no walk-ins. Select an evening time slot for better ambiance. Price: ¥3,200/person.",
+    "links": [
+      { "label": "teamLab Planets Official", "url": "https://planets.teamlab.art/tokyo/" }
+    ]
+  },
+  {
+    "id": "bk-fujiQ-naruto",
+    "type": "activity",
+    "status": "candidate",
+    "name": "Fuji-Q Hidden Leaf Village — Naruto Theme Park",
+    "provider": "Fuji-Q Highland",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.fujiq.jp/en/attraction/naruto.html",
+    "departureDate": "2026-10-08",
+    "costJPY": 7000,
+    "costUSD": 47,
+    "paid": false,
+    "notes": "Buy tickets online for the Naruto attraction. Fuji-Q entry is separate — check if bundled. ¥3,500/person for attraction.",
+    "links": [
+      { "label": "Fuji-Q Highland Official", "url": "https://www.fujiq.jp/en/" },
+      { "label": "Hidden Leaf Village", "url": "https://www.fujiq.jp/en/attraction/naruto.html" }
+    ]
+  },
+  {
+    "id": "bk-ruriko",
+    "type": "activity",
+    "status": "candidate",
+    "name": "Rurikō-in Temple, Kyoto — Autumn Reservation",
+    "provider": "Rurikō-in Temple",
+    "confirmationNumber": "",
+    "bookingUrl": "https://www.kyoto-yanagishita.net/",
+    "departureDate": "2026-10-13",
+    "costJPY": 4000,
+    "costUSD": 27,
+    "paid": false,
+    "notes": "BOOK ASAP — Only opens in spring and autumn (limited slots). The autumn-leaf reflection on the polished floor is world-famous. ¥2,000/person. Slots released ~3 months before.",
+    "links": [
+      { "label": "Rurikō-in Official", "url": "https://www.kyoto-yanagishita.net/" }
+    ]
+  }
+]

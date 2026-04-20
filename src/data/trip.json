@@ -1,0 +1,28 @@
+{
+  "title": "Japan Trip 2026",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-14",
+  "durationDays": 14,
+  "origin": "San Francisco (SFO)",
+  "baseCurrency": "JPY",
+  "displayCurrency": "USD",
+  "exchangeRate": 149.45,
+  "totalBudgetUSD": 6000,
+  "travelers": 2,
+  "cities": [
+    { "id": "tokyo",      "name": "Tokyo",     "dates": "Oct 1–3",   "nights": 3, "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80" },
+    { "id": "yamanashi",  "name": "Yamanashi", "dates": "Oct 4–5",   "nights": 2,  "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80" },
+    { "id": "hakone",     "name": "Hakone",    "dates": "Oct 6–7",   "nights": 2, "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80" },
+    { "id": "kyoto",      "name": "Kyoto",     "dates": "Oct 8–10",  "nights": 3, "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80" },
+    { "id": "osaka",      "name": "Osaka",     "dates": "Oct 11–14", "nights": 4, "image": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800&q=80" }
+  ],
+  "nextActions": [
+    { "id": "na-1", "text": "Book round-trip flights SFO → NRT", "done": false, "priority": "high" },
+    { "id": "na-2", "text": "Reserve Hakone ryokan (books out fast)", "done": false, "priority": "high" },
+    { "id": "na-3", "text": "Book Rurikō-in Temple Kyoto (limited slots)", "done": false, "priority": "high" },
+    { "id": "na-4", "text": "Purchase JR Pass (buy before leaving US)", "done": false, "priority": "medium" },
+    { "id": "na-5", "text": "Book TeamLab Planets Tokyo", "done": false, "priority": "medium" },
+    { "id": "na-6", "text": "Reserve Fuji-Q Hidden Leaf Village tickets", "done": false, "priority": "medium" },
+    { "id": "na-7", "text": "Set up Apple Pay Suica IC card", "done": false, "priority": "low" }
+  ]
+}

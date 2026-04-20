@@ -1,0 +1,159 @@
+{
+  "days": [
+    {
+      "id": "day-1", "dayNumber": 1, "date": "2026-10-01", "city": "Tokyo", "cityId": "tokyo",
+      "theme": "Arrival & Shinjuku",
+      "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=800&q=80",
+      "activities": [
+        { "id": "a1-1", "time": "15:00", "title": "Check in to hotel", "type": "accommodation", "location": { "name": "Shinjuku area hotel", "coordinates": [35.6897, 139.7000], "googleMapsUrl": "https://maps.google.com/?q=Shinjuku+Tokyo" }, "costJPY": 15000, "notes": "Drop bags, rest after long flight", "bookingId": "bk-hotel-tokyo" },
+        { "id": "a1-2", "time": "18:00", "title": "Shinjuku Omoide Yokocho (Memory Lane)", "type": "food", "location": { "name": "Omoide Yokocho", "coordinates": [35.6939, 139.6990], "googleMapsUrl": "https://maps.google.com/?q=Omoide+Yokocho+Shinjuku" }, "costJPY": 3000, "notes": "Tiny yakitori alleyway, grab skewers and beer", "animeTag": null },
+        { "id": "a1-3", "time": "20:30", "title": "Shinjuku by night stroll", "type": "sightseeing", "location": { "name": "Kabukicho & Golden Gai", "coordinates": [35.6953, 139.7036], "googleMapsUrl": "https://maps.google.com/?q=Golden+Gai+Shinjuku" }, "costJPY": 2000, "notes": "Golden Gai has tiny themed bars, very Japan", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-2", "dayNumber": 2, "date": "2026-10-02", "city": "Tokyo", "cityId": "tokyo",
+      "theme": "Asakusa + Akihabara (Demon Slayer & Naruto day)",
+      "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800&q=80",
+      "activities": [
+        { "id": "a2-1", "time": "07:00", "title": "Senso-ji Temple at dawn", "type": "sightseeing", "location": { "name": "Senso-ji Temple, Asakusa", "coordinates": [35.7147, 139.7966], "googleMapsUrl": "https://maps.google.com/?q=Senso-ji+Asakusa+Tokyo" }, "costJPY": 0, "notes": "Taisho-era streets — this is what Demon Slayer is modeled on. Go before crowds at 7am.", "animeTag": "demon-slayer" },
+        { "id": "a2-2", "time": "09:00", "title": "Nakamise Shopping Street breakfast & shopping", "type": "food", "location": { "name": "Nakamise-dori, Asakusa", "coordinates": [35.7133, 139.7960], "googleMapsUrl": "https://maps.google.com/?q=Nakamise+Asakusa" }, "costJPY": 1500, "notes": "Try ningyo-yaki (character cakes) and melon bread", "animeTag": null },
+        { "id": "a2-3", "time": "11:00", "title": "Akihabara — anime & manga district", "type": "sightseeing", "location": { "name": "Akihabara Electric Town", "coordinates": [35.7021, 139.7744], "googleMapsUrl": "https://maps.google.com/?q=Akihabara+Tokyo" }, "costJPY": 5000, "notes": "Animate, Mandarake, Yodobashi Camera. Demon Slayer, Naruto, Bleach merch everywhere.", "animeTag": "all" },
+        { "id": "a2-4", "time": "14:30", "title": "Naruto Museum Tokyo", "type": "sightseeing", "location": { "name": "Naruto Museum, Tokyo", "coordinates": [35.7050, 139.7700], "googleMapsUrl": "https://maps.google.com/?q=Naruto+Museum+Tokyo" }, "costJPY": 2000, "notes": "Full Naruto & Boruto exhibition", "animeTag": "naruto" },
+        { "id": "a2-5", "time": "19:00", "title": "TeamLab Planets", "type": "sightseeing", "location": { "name": "teamLab Planets Tokyo", "coordinates": [35.6494, 139.7949], "googleMapsUrl": "https://maps.google.com/?q=teamLab+Planets+Tokyo" }, "costJPY": 3200, "notes": "BOOK IN ADVANCE — always sells out. Immersive digital art.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-3", "dayNumber": 3, "date": "2026-10-03", "city": "Tokyo", "cityId": "tokyo",
+      "theme": "Harajuku, Shibuya & Hidden Gems",
+      "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800&q=80",
+      "activities": [
+        { "id": "a3-1", "time": "09:00", "title": "Tsukiji Outer Market breakfast", "type": "food", "location": { "name": "Tsukiji Outer Market", "coordinates": [35.6655, 139.7706], "googleMapsUrl": "https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo" }, "costJPY": 2500, "notes": "Best tamagoyaki, sushi, and tuna on skewers in the city", "animeTag": null },
+        { "id": "a3-2", "time": "11:30", "title": "Harajuku & Takeshita Street", "type": "sightseeing", "location": { "name": "Takeshita Street, Harajuku", "coordinates": [35.6706, 139.7032], "googleMapsUrl": "https://maps.google.com/?q=Takeshita+Street+Harajuku" }, "costJPY": 3000, "notes": "Pop culture fashion, crepes, cosplay — your wife will love this", "animeTag": "all" },
+        { "id": "a3-3", "time": "14:00", "title": "Meiji Jingu Shrine", "type": "sightseeing", "location": { "name": "Meiji Jingu Shrine", "coordinates": [35.6764, 139.6993], "googleMapsUrl": "https://maps.google.com/?q=Meiji+Jingu+Shrine+Tokyo" }, "costJPY": 0, "notes": "Peaceful forested shrine in the middle of the city. Stunning in autumn.", "animeTag": null },
+        { "id": "a3-4", "time": "17:00", "title": "Shibuya Crossing at golden hour", "type": "sightseeing", "location": { "name": "Shibuya Scramble Crossing", "coordinates": [35.6595, 139.7004], "googleMapsUrl": "https://maps.google.com/?q=Shibuya+Crossing+Tokyo" }, "costJPY": 0, "notes": "Watch from Starbucks above or just join the crossing — do both", "animeTag": null },
+        { "id": "a3-5", "time": "19:00", "title": "Shibuya dinner & drinks", "type": "food", "location": { "name": "Shibuya, Tokyo", "coordinates": [35.6595, 139.7004], "googleMapsUrl": "https://maps.google.com/?q=Shibuya+Tokyo+restaurants" }, "costJPY": 4000, "notes": "Try an izakaya — order yakitori, edamame, karaage and draft beer", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-4", "dayNumber": 4, "date": "2026-10-04", "city": "Yamanashi", "cityId": "yamanashi",
+      "theme": "Fuji-Q Hidden Leaf Village (Naruto) + Mt. Fuji Views",
+      "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80",
+      "activities": [
+        { "id": "a4-1", "time": "08:00", "title": "Train from Shinjuku to Fuji-Q Highland", "type": "transport", "location": { "name": "Shinjuku Station → Fuji-Q Highland", "coordinates": [35.5013, 138.7755], "googleMapsUrl": "https://maps.google.com/?q=Fujikyu+Highland+Fujiyoshida" }, "costJPY": 2400, "notes": "~2 hours. Take Fujikyu Railway from Otsuki.", "animeTag": null },
+        { "id": "a4-2", "time": "10:30", "title": "NARUTO×BORUTO FUJI Hidden Leaf Village", "type": "sightseeing", "location": { "name": "Fuji-Q Highland — Hidden Leaf Village", "coordinates": [35.4930, 138.7752], "googleMapsUrl": "https://maps.google.com/?q=Fuji-Q+Highland+Naruto" }, "costJPY": 3500, "notes": "BOOK IN ADVANCE. Walk through Konoha, Hokage Rock photo, Ichiraku Ramen restaurant, ninja games", "animeTag": "naruto" },
+        { "id": "a4-3", "time": "15:00", "title": "Lake Kawaguchi — Mt. Fuji reflection", "type": "sightseeing", "location": { "name": "Lake Kawaguchi", "coordinates": [35.5125, 138.7580], "googleMapsUrl": "https://maps.google.com/?q=Lake+Kawaguchi+Yamanashi" }, "costJPY": 0, "notes": "Autumn foliage + Fuji reflection in the lake. October is prime. Best photo spot: north shore.", "animeTag": null },
+        { "id": "a4-4", "time": "18:00", "title": "Check in near Kawaguchiko", "type": "accommodation", "location": { "name": "Kawaguchiko area guesthouse", "coordinates": [35.5125, 138.7580], "googleMapsUrl": "https://maps.google.com/?q=Kawaguchiko+hotels" }, "costJPY": 12000, "notes": "Stay near the lake for sunrise Fuji views tomorrow morning", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-5", "dayNumber": 5, "date": "2026-10-05", "city": "Yamanashi", "cityId": "yamanashi",
+      "theme": "Sunrise Fuji + Travel to Hakone",
+      "image": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?w=800&q=80",
+      "activities": [
+        { "id": "a5-1", "time": "05:30", "title": "Sunrise at Chureito Pagoda", "type": "sightseeing", "location": { "name": "Chureito Pagoda, Fujiyoshida", "coordinates": [35.4975, 138.7896], "googleMapsUrl": "https://maps.google.com/?q=Chureito+Pagoda+Fujiyoshida" }, "costJPY": 400, "notes": "The iconic shot — red pagoda with Mt. Fuji behind. Climb 400 steps. Worth every step.", "animeTag": null },
+        { "id": "a5-2", "time": "09:00", "title": "Kawaguchiko Maple Corridor", "type": "sightseeing", "location": { "name": "Momiji Tunnel, Kawaguchiko", "coordinates": [35.5200, 138.7540], "googleMapsUrl": "https://maps.google.com/?q=Momiji+Corridor+Kawaguchi+Lake" }, "costJPY": 0, "notes": "Peak autumn foliage tunnel of maple trees — October is perfect timing", "animeTag": null },
+        { "id": "a5-3", "time": "13:00", "title": "Travel to Hakone by Romancecar", "type": "transport", "location": { "name": "Kawaguchiko → Hakone-Yumoto", "coordinates": [35.2500, 139.0167], "googleMapsUrl": "https://maps.google.com/?q=Hakone+Yumoto+Station" }, "costJPY": 2500, "notes": "Odakyu Romancecar — scenic mountain train. ~1.5 hours.", "animeTag": null },
+        { "id": "a5-4", "time": "15:30", "title": "Check in to ryokan", "type": "accommodation", "location": { "name": "Hakone Tokinoshizuku Ryokan", "coordinates": [35.2300, 139.0400], "googleMapsUrl": "https://maps.google.com/?q=Hakone+Tokinoshizuku" }, "costJPY": 40000, "notes": "Private hinoki wood onsen on your terrace. Includes dinner + breakfast.", "bookingId": "bk-ryokan-hakone" },
+        { "id": "a5-5", "time": "19:00", "title": "Kaiseki dinner at ryokan", "type": "food", "location": { "name": "Ryokan dining room", "coordinates": [35.2300, 139.0400], "googleMapsUrl": "" }, "costJPY": 0, "notes": "Included with ryokan. Multi-course traditional Japanese dinner. Wear yukata.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-6", "dayNumber": 6, "date": "2026-10-06", "city": "Hakone", "cityId": "hakone",
+      "theme": "Onsen & Hakone Day",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+      "activities": [
+        { "id": "a6-1", "time": "07:00", "title": "Private onsen morning soak", "type": "sightseeing", "location": { "name": "Ryokan private onsen", "coordinates": [35.2300, 139.0400], "googleMapsUrl": "" }, "costJPY": 0, "notes": "Included. Best time is early morning — cool air, hot spring, mountain silence.", "animeTag": null },
+        { "id": "a6-2", "time": "09:30", "title": "Hakone Open Air Museum", "type": "sightseeing", "location": { "name": "Hakone Open-Air Museum", "coordinates": [35.2480, 139.0260], "googleMapsUrl": "https://maps.google.com/?q=Hakone+Open+Air+Museum" }, "costJPY": 1600, "notes": "Outdoor sculpture park with Picasso pavilion. Beautiful in autumn foliage.", "animeTag": null },
+        { "id": "a6-3", "time": "13:00", "title": "Hakone Ropeway over Owakudani", "type": "sightseeing", "location": { "name": "Owakudani Volcanic Valley", "coordinates": [35.2439, 139.0209], "googleMapsUrl": "https://maps.google.com/?q=Owakudani+Hakone" }, "costJPY": 1500, "notes": "Cable car over active volcanic crater. Try the black egg (kuro-tamago) — boiled in sulfur springs.", "animeTag": null },
+        { "id": "a6-4", "time": "15:30", "title": "Lake Ashi boat cruise with Fuji view", "type": "sightseeing", "location": { "name": "Lake Ashi, Hakone", "coordinates": [35.2036, 139.0222], "googleMapsUrl": "https://maps.google.com/?q=Lake+Ashi+Hakone" }, "costJPY": 1200, "notes": "Pirate ship cruise. On clear days Mt. Fuji visible from the lake.", "animeTag": null },
+        { "id": "a6-5", "time": "19:00", "title": "Second night at ryokan", "type": "accommodation", "location": { "name": "Hakone Tokinoshizuku Ryokan", "coordinates": [35.2300, 139.0400], "googleMapsUrl": "" }, "costJPY": 0, "notes": "Night 2. Included dinner again. Try the outdoor communal bath this evening.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-7", "dayNumber": 7, "date": "2026-10-07", "city": "Kyoto", "cityId": "kyoto",
+      "theme": "Travel to Kyoto + Gion Evening",
+      "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80",
+      "activities": [
+        { "id": "a7-1", "time": "09:00", "title": "Shinkansen Hakone → Kyoto", "type": "transport", "location": { "name": "Odawara → Kyoto Station", "coordinates": [34.9859, 135.7581], "googleMapsUrl": "https://maps.google.com/?q=Kyoto+Station" }, "costJPY": 13000, "notes": "Covered by JR Pass. ~2.5 hours on the Hikari. Arrive in time for lunch.", "animeTag": null },
+        { "id": "a7-2", "time": "12:30", "title": "Nishiki Market food walk", "type": "food", "location": { "name": "Nishiki Market, Kyoto", "coordinates": [35.0050, 135.7683], "googleMapsUrl": "https://maps.google.com/?q=Nishiki+Market+Kyoto" }, "costJPY": 2500, "notes": "Kyoto's Kitchen. 100+ stalls — try tofu skewers, fresh yuba, pickles, tamagoyaki.", "animeTag": null },
+        { "id": "a7-3", "time": "15:00", "title": "Check in to Gion area hotel", "type": "accommodation", "location": { "name": "Hotel near Gion, Kyoto", "coordinates": [35.0035, 135.7750], "googleMapsUrl": "https://maps.google.com/?q=Gion+Kyoto" }, "costJPY": 18000, "notes": "Stay in Gion — walking distance to everything", "bookingId": "bk-hotel-kyoto" },
+        { "id": "a7-4", "time": "17:00", "title": "Gion district at dusk — Demon Slayer streets", "type": "sightseeing", "location": { "name": "Hanamikoji Street, Gion", "coordinates": [35.0035, 135.7750], "googleMapsUrl": "https://maps.google.com/?q=Hanamikoji+Street+Gion+Kyoto" }, "costJPY": 0, "notes": "The preserved Taisho-era machiya townhouses ARE Demon Slayer's world. Best at dusk. Geisha sightings possible.", "animeTag": "demon-slayer" }
+      ]
+    },
+    {
+      "id": "day-8", "dayNumber": 8, "date": "2026-10-08", "city": "Kyoto", "cityId": "kyoto",
+      "theme": "Fushimi Inari + Arashiyama (Demon Slayer spots)",
+      "image": "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&q=80",
+      "activities": [
+        { "id": "a8-1", "time": "06:30", "title": "Fushimi Inari at dawn", "type": "sightseeing", "location": { "name": "Fushimi Inari-taisha", "coordinates": [34.9671, 135.7727], "googleMapsUrl": "https://maps.google.com/?q=Fushimi+Inari+Shrine+Kyoto" }, "costJPY": 0, "notes": "1,000 torii gates on a forested mountain. Referenced throughout Demon Slayer. No crowds at 6:30am.", "animeTag": "demon-slayer" },
+        { "id": "a8-2", "time": "10:00", "title": "Arashiyama Bamboo Grove", "type": "sightseeing", "location": { "name": "Arashiyama Bamboo Grove", "coordinates": [35.0170, 135.6720], "googleMapsUrl": "https://maps.google.com/?q=Arashiyama+Bamboo+Grove+Kyoto" }, "costJPY": 0, "notes": "Iconic bamboo forest — go before 10am. Pair with Tenryu-ji garden next door.", "animeTag": null },
+        { "id": "a8-3", "time": "12:30", "title": "Torokko Romantic Train", "type": "sightseeing", "location": { "name": "Sagano Romantic Train, Arashiyama", "coordinates": [35.0250, 135.6640], "googleMapsUrl": "https://maps.google.com/?q=Sagano+Scenic+Railway+Kyoto" }, "costJPY": 900, "notes": "Old scenic train through the Hozugawa gorge. Autumn leaves in October — stunning.", "animeTag": null },
+        { "id": "a8-4", "time": "15:00", "title": "Philosopher's Path walk", "type": "sightseeing", "location": { "name": "Philosopher's Path, Kyoto", "coordinates": [35.0270, 135.7963], "googleMapsUrl": "https://maps.google.com/?q=Philosopher%27s+Path+Kyoto" }, "costJPY": 0, "notes": "2km canal-side path lined with maple trees. October foliage is spectacular.", "animeTag": null },
+        { "id": "a8-5", "time": "19:00", "title": "Kaiseki dinner in Kyoto", "type": "food", "location": { "name": "Kyoto restaurant near Gion", "coordinates": [35.0035, 135.7750], "googleMapsUrl": "https://maps.google.com/?q=Kaiseki+restaurant+Gion+Kyoto" }, "costJPY": 8000, "notes": "Splurge night — Kyoto kaiseki is world-class. Book via Tabelog or Omakase.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-9", "dayNumber": 9, "date": "2026-10-09", "city": "Kyoto", "cityId": "kyoto",
+      "theme": "Rurikō-in Temple + Nara Day Trip",
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&q=80",
+      "activities": [
+        { "id": "a9-1", "time": "09:00", "title": "Rurikō-in Temple — autumn leaf reflection", "type": "sightseeing", "location": { "name": "Rurikō-in Temple, Kyoto", "coordinates": [35.0622, 135.7847], "googleMapsUrl": "https://maps.google.com/?q=Rurikoin+Temple+Kyoto" }, "costJPY": 2000, "notes": "MUST BOOK IN ADVANCE — only open in autumn. Autumn leaves reflected in polished wooden floor. One of the most photographed scenes in Japan.", "animeTag": null },
+        { "id": "a9-2", "time": "11:30", "title": "Train to Nara (day trip)", "type": "transport", "location": { "name": "Kyoto → Nara", "coordinates": [34.6851, 135.8048], "googleMapsUrl": "https://maps.google.com/?q=Nara+Park" }, "costJPY": 720, "notes": "45 min on JR Nara line. Covered by JR Pass.", "animeTag": null },
+        { "id": "a9-3", "time": "13:00", "title": "Nara Park deer + Todai-ji Temple", "type": "sightseeing", "location": { "name": "Nara Deer Park", "coordinates": [34.6851, 135.8048], "googleMapsUrl": "https://maps.google.com/?q=Nara+Deer+Park" }, "costJPY": 600, "notes": "1,200 free-roaming deer. Todai-ji houses the world's largest bronze Buddha. Deer bow if you bow back.", "animeTag": null },
+        { "id": "a9-4", "time": "16:00", "title": "Return to Kyoto + Pontocho dinner", "type": "food", "location": { "name": "Pontocho Alley, Kyoto", "coordinates": [35.0060, 135.7704], "googleMapsUrl": "https://maps.google.com/?q=Pontocho+Alley+Kyoto" }, "costJPY": 5000, "notes": "Narrow lantern-lit alley of restaurants. Request a riverside terrace seat (kawayuka) — magical in October.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-10", "dayNumber": 10, "date": "2026-10-10", "city": "Osaka", "cityId": "osaka",
+      "theme": "Travel to Osaka + Dotonbori Food Crawl",
+      "image": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800&q=80",
+      "activities": [
+        { "id": "a10-1", "time": "10:00", "title": "Shinkansen Kyoto → Osaka", "type": "transport", "location": { "name": "Kyoto → Osaka Station", "coordinates": [34.7024, 135.4959], "googleMapsUrl": "https://maps.google.com/?q=Osaka+Station" }, "costJPY": 1420, "notes": "13 minutes on the Shinkansen. Covered by JR Pass.", "animeTag": null },
+        { "id": "a10-2", "time": "11:00", "title": "Check in to Osaka hotel", "type": "accommodation", "location": { "name": "Namba area hotel, Osaka", "coordinates": [34.6687, 135.4996], "googleMapsUrl": "https://maps.google.com/?q=Namba+Osaka" }, "costJPY": 14000, "notes": "Stay near Namba — walking distance to Dotonbori and everything", "bookingId": "bk-hotel-osaka" },
+        { "id": "a10-3", "time": "13:00", "title": "Kuromon Market lunch", "type": "food", "location": { "name": "Kuromon Ichiba Market, Osaka", "coordinates": [34.6691, 135.5076], "googleMapsUrl": "https://maps.google.com/?q=Kuromon+Market+Osaka" }, "costJPY": 2500, "notes": "Osaka's Kitchen. Fresh seafood, wagyu skewers, fugu. Eat your way through.", "animeTag": null },
+        { "id": "a10-4", "time": "16:00", "title": "Osaka Castle + autumn foliage", "type": "sightseeing", "location": { "name": "Osaka Castle", "coordinates": [34.6873, 135.5262], "googleMapsUrl": "https://maps.google.com/?q=Osaka+Castle" }, "costJPY": 600, "notes": "Historic castle with city views from the top. Maple trees in the park turn red in October.", "animeTag": null },
+        { "id": "a10-5", "time": "19:00", "title": "Dotonbori food crawl", "type": "food", "location": { "name": "Dotonbori, Osaka", "coordinates": [34.6687, 135.5009], "googleMapsUrl": "https://maps.google.com/?q=Dotonbori+Osaka" }, "costJPY": 4000, "notes": "Takoyaki at Aizuya, okonomiyaki at Mizuno, ramen at Kinryu. Walk the neon canal strip.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-11", "dayNumber": 11, "date": "2026-10-11", "city": "Osaka", "cityId": "osaka",
+      "theme": "Bleach Territory + Kurashiki Hidden Gem",
+      "image": "https://images.unsplash.com/photo-1599637091502-56e28de63f58?w=800&q=80",
+      "activities": [
+        { "id": "a11-1", "time": "09:00", "title": "Shinsekai — retro Osaka district", "type": "sightseeing", "location": { "name": "Shinsekai, Osaka", "coordinates": [34.6523, 135.5064], "googleMapsUrl": "https://maps.google.com/?q=Shinsekai+Osaka" }, "costJPY": 1500, "notes": "Old-school retro neighbourhood — 1950s Japan vibes. Try kushikatsu (deep-fried skewers).", "animeTag": null },
+        { "id": "a11-2", "time": "11:00", "title": "Day trip to Kurashiki (hidden gem)", "type": "sightseeing", "location": { "name": "Kurashiki Bikan Historical Quarter", "coordinates": [34.5849, 133.7728], "googleMapsUrl": "https://maps.google.com/?q=Kurashiki+Bikan+Historical+Quarter" }, "costJPY": 2200, "notes": "1.5hr train from Osaka. Canal-side willow trees, white-walled storehouses — old Japan without the crowds. Ohara Museum of Art is world-class.", "animeTag": null },
+        { "id": "a11-3", "time": "16:00", "title": "Return to Osaka — Amerikamura", "type": "sightseeing", "location": { "name": "Amerikamura, Osaka", "coordinates": [34.6706, 135.4989], "googleMapsUrl": "https://maps.google.com/?q=Amerikamura+Osaka" }, "costJPY": 0, "notes": "Osaka's streetwear and youth culture district. Like Harajuku but edgier.", "animeTag": null },
+        { "id": "a11-4", "time": "19:00", "title": "Final dinner — Osaka omakase or wagyu", "type": "food", "location": { "name": "Namba area, Osaka", "coordinates": [34.6687, 135.4996], "googleMapsUrl": "https://maps.google.com/?q=wagyu+restaurant+Namba+Osaka" }, "costJPY": 8000, "notes": "Last big meal — go for wagyu beef or a small omakase counter. Osaka has incredible value.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-12", "dayNumber": 12, "date": "2026-10-12", "city": "Osaka", "cityId": "osaka",
+      "theme": "Sumiyoshi Shrine + Umeda & Nightlife",
+      "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800&q=80",
+      "activities": [
+        { "id": "a12-1", "time": "07:00", "title": "Morning stroll — Sumiyoshi Taisha Shrine", "type": "sightseeing", "location": { "name": "Sumiyoshi Taisha Shrine, Osaka", "coordinates": [34.6123, 135.4929], "googleMapsUrl": "https://maps.google.com/?q=Sumiyoshi+Taisha+Shrine+Osaka" }, "costJPY": 0, "notes": "One of Japan's oldest shrines, peaceful and beautiful. Hidden gem even in Osaka.", "animeTag": null },
+        { "id": "a12-2", "time": "11:00", "title": "Umeda Sky Building — floating garden observatory", "type": "sightseeing", "location": { "name": "Umeda Sky Building, Osaka", "coordinates": [34.7056, 135.4898], "googleMapsUrl": "https://maps.google.com/?q=Umeda+Sky+Building+Osaka" }, "costJPY": 1500, "notes": "360° views from the rooftop ring. Retro underground shopping street below (Takimi-koji) is worth a wander.", "animeTag": null },
+        { "id": "a12-3", "time": "14:00", "title": "Namba Parks + shopping", "type": "sightseeing", "location": { "name": "Namba Parks, Osaka", "coordinates": [34.6600, 135.5020], "googleMapsUrl": "https://maps.google.com/?q=Namba+Parks+Osaka" }, "costJPY": 3000, "notes": "Rooftop garden mall. Good for souvenirs, Japanese cosmetics, and a break from the heat.", "animeTag": null },
+        { "id": "a12-4", "time": "19:00", "title": "Hozenji Yokocho dinner", "type": "food", "location": { "name": "Hozenji Yokocho, Osaka", "coordinates": [34.6676, 135.5036], "googleMapsUrl": "https://maps.google.com/?q=Hozenji+Yokocho+Osaka" }, "costJPY": 4000, "notes": "Atmospheric moss-covered alley with traditional restaurants. The tiny Fudo-Myoo shrine is tucked inside — locals splash water on the statue for good luck.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-13", "dayNumber": 13, "date": "2026-10-13", "city": "Osaka", "cityId": "osaka",
+      "theme": "Universal Studios Japan (Nintendo World + Harry Potter)",
+      "image": "https://images.unsplash.com/photo-1599637091502-56e28de63f58?w=800&q=80",
+      "activities": [
+        { "id": "a13-1", "time": "08:30", "title": "Universal Studios Japan — full day", "type": "sightseeing", "location": { "name": "Universal Studios Japan, Osaka", "coordinates": [34.6654, 135.4323], "googleMapsUrl": "https://maps.google.com/?q=Universal+Studios+Japan+Osaka" }, "costJPY": 9800, "notes": "BOOK IN ADVANCE. Nintendo World (Mario Kart ride, wristband power-ups), Wizarding World of Harry Potter, and Minion Park. Get the Express Pass for Nintendo World — lines can be 3 hours.", "animeTag": null },
+        { "id": "a13-2", "time": "20:00", "title": "Post-USJ dinner at Namba ramen street", "type": "food", "location": { "name": "Namba, Osaka", "coordinates": [34.6687, 135.4996], "googleMapsUrl": "https://maps.google.com/?q=ramen+Namba+Osaka" }, "costJPY": 1500, "notes": "Feet will be tired — grab a bowl of rich tonkotsu ramen near the hotel and call it a night.", "animeTag": null }
+      ]
+    },
+    {
+      "id": "day-14", "dayNumber": 14, "date": "2026-10-14", "city": "Osaka", "cityId": "osaka",
+      "theme": "Last Morning + Departure",
+      "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800&q=80",
+      "activities": [
+        { "id": "a14-1", "time": "08:00", "title": "Final konbini breakfast + souvenir shopping", "type": "food", "location": { "name": "Namba area shops", "coordinates": [34.6687, 135.4996], "googleMapsUrl": "https://maps.google.com/?q=Namba+Osaka+shopping" }, "costJPY": 5000, "notes": "Don Quijote for last-minute gifts. Kit Kat flavors, sake, matcha snacks for home.", "animeTag": null },
+        { "id": "a14-2", "time": "13:00", "title": "Haruka Express to Kansai Airport", "type": "transport", "location": { "name": "Osaka → KIX Kansai Airport", "coordinates": [34.4272, 135.2440], "googleMapsUrl": "https://maps.google.com/?q=Kansai+International+Airport" }, "costJPY": 2400, "notes": "Haruka Limited Express, ~80 min. Fly home from KIX or return to Tokyo (NRT) depending on your ticket.", "animeTag": null }
+      ]
+    }
+  ]
+}

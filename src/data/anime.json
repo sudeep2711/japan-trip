@@ -1,0 +1,169 @@
+{
+  "shows": [
+    {
+      "id": "demon-slayer",
+      "name": "Demon Slayer",
+      "color": "#e11d48",
+      "bgColor": "#fff1f2",
+      "character": "Tanjiro & Nezuko",
+      "forWho": "wife",
+      "description": "Demon Slayer is set in Taisho-era Japan (1912–1926). Almost every location in the show is inspired by real places you can visit.",
+      "spots": [
+        {
+          "id": "ds-1",
+          "name": "Asakusa, Tokyo",
+          "subtitle": "Taisho-era streets of the show",
+          "description": "The preserved Taisho-era streets of Asakusa are the direct visual inspiration for Demon Slayer's world. Walking through Nakamise-dori at dawn feels like stepping into the anime. The stone lanterns, wooden shopfronts, and Senso-ji temple gates are unmistakably Tanjiro's Japan.",
+          "coordinates": [35.7147, 139.7966],
+          "googleMapsUrl": "https://maps.google.com/?q=Senso-ji+Asakusa+Tokyo",
+          "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=600&q=80",
+          "dayId": "day-2",
+          "mustVisit": true,
+          "tags": ["Taisho era", "Architecture", "Temples"]
+        },
+        {
+          "id": "ds-2",
+          "name": "Gion District, Kyoto",
+          "subtitle": "The soul of Demon Slayer's world",
+          "description": "Gion's hanamikoji street — with its wooden machiya townhouses, stone-paved alleys, and paper lanterns — is the atmosphere Demon Slayer is built on. At dusk, with geisha occasionally passing, it feels exactly like the show. This is the must-see Demon Slayer location.",
+          "coordinates": [35.0035, 135.7750],
+          "googleMapsUrl": "https://maps.google.com/?q=Hanamikoji+Street+Gion+Kyoto",
+          "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80",
+          "dayId": "day-7",
+          "mustVisit": true,
+          "tags": ["Taisho era", "Geisha district", "Architecture"]
+        },
+        {
+          "id": "ds-3",
+          "name": "Fushimi Inari, Kyoto",
+          "subtitle": "1,000 torii gates — Final Selection forest",
+          "description": "The dense forest of vermillion torii gates climbing the mountain at Fushimi Inari directly echoes the forests of Demon Slayer — particularly the Final Selection arc on Mt. Fujikasane. Going at dawn means misty, atmospheric photos with almost no crowds.",
+          "coordinates": [34.9671, 135.7727],
+          "googleMapsUrl": "https://maps.google.com/?q=Fushimi+Inari+Shrine+Kyoto",
+          "image": "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=600&q=80",
+          "dayId": "day-8",
+          "mustVisit": true,
+          "tags": ["Torii gates", "Shrine", "Forest"]
+        },
+        {
+          "id": "ds-4",
+          "name": "Ashikaga Flower Park, Tochigi",
+          "subtitle": "Wisteria forest — Final Selection arc",
+          "description": "Ashikaga's Great Wisteria — a 160-year-old wisteria tree covering nearly 1,000 square meters — is the real-world inspiration for the wisteria-covered mountain in Demon Slayer's Final Selection arc. Note: requires a detour from the main route, best as a day trip from Tokyo.",
+          "coordinates": [36.3167, 139.5236],
+          "googleMapsUrl": "https://maps.google.com/?q=Ashikaga+Flower+Park+Tochigi",
+          "image": "https://images.unsplash.com/photo-1602491453631-e2a5ad90a131?w=600&q=80",
+          "dayId": null,
+          "mustVisit": false,
+          "tags": ["Wisteria", "Nature", "Seasonal"]
+        },
+        {
+          "id": "ds-5",
+          "name": "Ookawaso Ryokan, Fukushima",
+          "subtitle": "The inspiration for Infinity Castle",
+          "description": "The tiered architecture of Ookawaso Ryokan is said to have inspired the Infinity Castle from Demon Slayer. Visitors can stay the night and soak in the onsen while surrounded by the castle-like structure. Requires a dedicated trip to Fukushima — optional but legendary.",
+          "coordinates": [37.5000, 140.1000],
+          "googleMapsUrl": "https://maps.google.com/?q=Ookawaso+Ryokan+Fukushima",
+          "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
+          "dayId": null,
+          "mustVisit": false,
+          "tags": ["Ryokan", "Infinity Castle", "Onsen"]
+        }
+      ]
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "color": "#f97316",
+      "bgColor": "#fff7ed",
+      "character": "Naruto, Sasuke & the gang",
+      "forWho": "husband",
+      "description": "Naruto's Hidden Leaf Village (Konohagakure) draws from Japanese village architecture, Shinto shrines, and forest landscapes — all of which you'll encounter throughout the trip.",
+      "spots": [
+        {
+          "id": "na-1",
+          "name": "NARUTO×BORUTO FUJI Hidden Leaf Village",
+          "subtitle": "The official Naruto theme park — IN YOUR ITINERARY",
+          "description": "The only official Hidden Leaf Village recreation in the world, located at Fuji-Q Highland in Yamanashi. You can walk through Konoha's streets, eat ramen at the real Ichiraku Ramen restaurant, take photos at the Hokage Rock monument, and play ninja games. Already on Day 4 of your itinerary.",
+          "coordinates": [35.4930, 138.7752],
+          "googleMapsUrl": "https://maps.google.com/?q=Fuji-Q+Highland+Naruto",
+          "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&q=80",
+          "dayId": "day-4",
+          "mustVisit": true,
+          "tags": ["Theme park", "Ichiraku Ramen", "Hokage Rock", "Ninja games"]
+        },
+        {
+          "id": "na-2",
+          "name": "Naruto Museum Tokyo",
+          "subtitle": "Full Naruto & Boruto exhibition",
+          "description": "A dedicated Naruto and Boruto exhibition space in Tokyo with full story displays, original artwork, character costumes, and merchandise. Already on Day 2 of your itinerary.",
+          "coordinates": [35.7050, 139.7700],
+          "googleMapsUrl": "https://maps.google.com/?q=Naruto+Museum+Tokyo",
+          "image": "https://images.unsplash.com/photo-1605460375648-278bcbd579a6?w=600&q=80",
+          "dayId": "day-2",
+          "mustVisit": true,
+          "tags": ["Museum", "Exhibition", "Boruto"]
+        },
+        {
+          "id": "na-3",
+          "name": "Ninja Experience Cafes (Tokyo, Kyoto, Osaka)",
+          "subtitle": "Real ninja training & performance",
+          "description": "Ninja Experience Cafes in Tokyo (Harajuku/Asakusa), Kyoto, and Osaka offer actual shuriken throwing, ninja costume sessions, and theatrical performances. Perfect for Naruto fans. The Kyoto and Osaka locations are near your hotels.",
+          "coordinates": [35.7147, 139.7966],
+          "googleMapsUrl": "https://maps.google.com/?q=Ninja+Experience+Cafe+Tokyo",
+          "image": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=600&q=80",
+          "dayId": "day-2",
+          "mustVisit": false,
+          "tags": ["Ninja", "Interactive", "Shuriken"]
+        }
+      ]
+    },
+    {
+      "id": "bleach",
+      "name": "Bleach",
+      "color": "#7c3aed",
+      "bgColor": "#f5f3ff",
+      "character": "Ichigo Kurosaki",
+      "forWho": "husband",
+      "description": "Bleach's Karakura Town is based on Chofu in western Tokyo, and Soul Society's aesthetic draws heavily from Kyoto's traditional architecture and Edo-period samurai culture.",
+      "spots": [
+        {
+          "id": "bl-1",
+          "name": "Chofu, Tokyo",
+          "subtitle": "The real Karakura Town",
+          "description": "Chofu city in western Tokyo is the confirmed real-world model for Ichigo's Karakura Town. Kurosaki Clinic's design, the shopping streets, and the residential layout all match Chofu's geography. Reachable by Keio Line from Shinjuku in 25 minutes.",
+          "coordinates": [35.6598, 139.5539],
+          "googleMapsUrl": "https://maps.google.com/?q=Chofu+Tokyo",
+          "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=600&q=80",
+          "dayId": null,
+          "mustVisit": false,
+          "tags": ["Karakura Town", "Residential", "Chofu"]
+        },
+        {
+          "id": "bl-2",
+          "name": "Kyoto traditional districts",
+          "subtitle": "Soul Society's aesthetic blueprint",
+          "description": "Soul Society's Seireitei — with its tiled roofs, stone walls, narrow corridors, and clan compounds — is visually based on Kyoto's traditional samurai and temple architecture. Walking through Ninen-zaka and Sannen-zaka stone-paved lanes in Kyoto feels like being in Soul Society.",
+          "coordinates": [34.9988, 135.7785],
+          "googleMapsUrl": "https://maps.google.com/?q=Ninen-zaka+Kyoto",
+          "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&q=80",
+          "dayId": "day-7",
+          "mustVisit": true,
+          "tags": ["Soul Society", "Traditional", "Stone lanes"]
+        },
+        {
+          "id": "bl-3",
+          "name": "Tofuku-ji Temple, Kyoto",
+          "subtitle": "Grand gate that echoes the Seireitei",
+          "description": "Tofuku-ji's massive Sanmon gate and sweeping dry garden evoke the grand scale of Soul Society's architecture. The autumn foliage here in October is among the best in all of Kyoto. Often overlooked in favor of more famous temples — a true hidden gem.",
+          "coordinates": [34.9753, 135.7726],
+          "googleMapsUrl": "https://maps.google.com/?q=Tofuku-ji+Temple+Kyoto",
+          "image": "https://images.unsplash.com/photo-1614094082869-cd4e4b2905c7?w=600&q=80",
+          "dayId": null,
+          "mustVisit": false,
+          "tags": ["Temple", "Soul Society", "Autumn foliage"]
+        }
+      ]
+    }
+  ]
+}

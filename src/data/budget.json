@@ -1,0 +1,13 @@
+{
+  "totalBudgetUSD": 6000,
+  "totalBudgetJPY": 896700,
+  "categories": [
+    { "id": "flights",       "label": "Flights",            "color": "#3b82f6", "plannedUSD": 1400, "plannedJPY": 209160, "icon": "Plane" },
+    { "id": "accommodation", "label": "Hotels & Ryokan",    "color": "#8b5cf6", "plannedUSD": 1550, "plannedJPY": 231645, "icon": "Bed" },
+    { "id": "transport",     "label": "Transport (JR+local)","color": "#10b981", "plannedUSD": 900,  "plannedJPY": 134505, "icon": "Train" },
+    { "id": "food",          "label": "Food & Drink",       "color": "#f59e0b", "plannedUSD": 900,  "plannedJPY": 134505, "icon": "Utensils" },
+    { "id": "activities",    "label": "Activities & Tickets","color": "#ef4444", "plannedUSD": 450,  "plannedJPY": 67253, "icon": "Ticket" },
+    { "id": "shopping",      "label": "Shopping & Gifts",   "color": "#ec4899", "plannedUSD": 500,  "plannedJPY": 74725, "icon": "ShoppingBag" },
+    { "id": "misc",          "label": "Miscellaneous",      "color": "#6b7280", "plannedUSD": 300,  "plannedJPY": 44835, "icon": "Package" }
+  ]
+}
